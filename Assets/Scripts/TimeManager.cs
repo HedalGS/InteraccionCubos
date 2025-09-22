@@ -37,7 +37,7 @@ public class TimeManager : MonoBehaviour
 
     public void SetTimeRunning(bool isRunning)
     {
-        this.timeRunning = isRunning;
+        timeRunning = isRunning;
     }
 
     public bool GetTimeRunning()
